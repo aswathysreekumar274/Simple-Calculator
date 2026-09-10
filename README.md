@@ -21,4 +21,4 @@ A simple Python calculator project for beginners. It performs basic arithmetic o
 BCA Student - Aswathy Sreekumar
 GitHub: aswathysreekumar274
 
-This project is made for learning Python basics and for BCA academic purpose.
+.
